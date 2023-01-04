@@ -1,0 +1,17 @@
+.Contentlogin {
+    width: 30rem;
+    margin: auto;
+    margin-top: 10rem;
+}
+
+.inputs{
+    margin-top: 1rem !important ;
+    width: inherit;
+}
+
+.bottom {
+    background: black !important ;
+    width: inherit;
+    margin-top: 1rem !important ;
+    height: 40px;
+}
